@@ -1,0 +1,32 @@
+<#this>
+<urn:string:addr> "173.255.252.140:9265";
+<urn:string:addr> "77.67.46.89:58730";
+<urn:string:addr> "123.57.15.153:20383";
+<urn:string:addr> "72.220.107.185:39200";
+<urn:string:addr> "198.27.81.25:53463";
+<urn:string:addr> "94.101.39.58:49398";
+<urn:string:addr> "192.124.224.254:48666";
+<urn:string:addr> "[2607:5300:60:2219::]:53686";
+<urn:string:addr> "204.68.122.18:9265";
+<urn:string:addr> "139.59.160.118:52428";
+<urn:string:addr> "24.225.110.253:9265";
+<urn:string:addr> "[2600:3c01::f03c:91ff:fee2:23f0]:9265";
+<urn:string:addr> "163.172.60.111:9265";
+<urn:string:addr> "5.187.4.14:9265";
+<urn:string:addr> "212.224.112.231:60914";
+<urn:string:addr> "5.189.144.97:38642";
+<urn:string:addr> "60.205.112.102:44422";
+<urn:string:addr> "115.28.38.190:52147";
+<urn:string:addr> "96.127.136.18:55407";
+<urn:string:addr> "182.92.67.19:40782";
+<urn:string:addr> "146.0.32.101:46338";
+<urn:string:addr> "72.220.107.185:51333";
+<urn:string:addr> "45.33.65.161:45590";
+<urn:string:addr> "88.206.141.110:51098";
+<urn:string:addr> "98.115.147.74:9265";
+<urn:string:addr> "139.162.35.170:32992";
+<urn:string:addr> "[2400:8901::f03c:91ff:fea1:117a]:36814";
+<urn:string:addr> "[2001:0:5ef5:79fb:fe:19e7:9753:e7b0]:55606";
+<urn:string:addr> "[2602:ff68:0:5:2bd:27ff:feb0:aef8]:54930";
+<urn:string:addr> "89.108.83.18:9265";
+<urn:string:addr> "79.235.249.158:59085" .
