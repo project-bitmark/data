@@ -1,2 +1,2 @@
 <#this>
-<urn:string:pool> <http://sky-pool.com/> .
+<urn:string:pool> <http://nuseed.zmark.org:8080/> , <http://sky-pool.com/> .
